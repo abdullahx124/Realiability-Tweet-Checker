@@ -1,0 +1,20 @@
+Group Members
+=====================================
+Muhammad Awais -------------- FA19-BCS-105
+Abdullah --------------------------- FA19-BCS-114
+Muhammad Huzaifa Tariq ---- FA19-BCS-047
+
+
+
+Work Division
+=====================================
+Muhammad Awais & Abdullah
+1. LSTM
+2. GRU
+3. CNN
+4. CNN+LSTM
+5. Report
+
+Muhammad Huzaifa Tariq
+1. BERT
+2. ALBERT
